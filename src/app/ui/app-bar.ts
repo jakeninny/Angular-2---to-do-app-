@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
     .app-bar {
       height: 65px;
       padding: 5px 30px;
-      background-color: rgb(227, 147, 74);
+      background-color: deeppink;
     }
     .logo {
       color: white;
