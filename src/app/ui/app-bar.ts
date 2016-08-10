@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
     .app-bar {
       height: 65px;
       padding: 5px 30px;
-      background-color: #00BCD4;
+      background-color: rgb(227, 147, 74);
     }
     .logo {
       color: white;
@@ -16,7 +16,7 @@ import { Component } from '@angular/core';
     }
     .link {
       color: white;
-      font-size: 24px;
+      font-size: 18px;
       font-weight: 400;
       cursor: pointer;
     }
@@ -25,7 +25,7 @@ import { Component } from '@angular/core';
 
   <header class="app-bar row middle-xs">
    <span class="logo col-xs-10">
-     Retain
+     Don't Forget
    </span>
    <nav class="col-xs-2">
      <div class="row middle-xs between-xs">
